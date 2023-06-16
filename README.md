@@ -1,7 +1,6 @@
 # Layouts Responsivos: trabalhando com layouts mobile
 
-<img src="./img/preview.png" width=550>
-<img src="./img/preview1.png" height=1695 width=80>
+<img src="./img/preview.png" width=550> <img src="./img/preview1.png" height=1695 width=130>
 
 Clique [AQUI](https://alineviana.github.io/layouts-responsivos-alura/) para acessar o projeto
 
